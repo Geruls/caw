@@ -1,5 +1,6 @@
 #include <stdio.h>
 
-void M() {
+int M() {
     printf("Testing");
+    return 0;
 }
