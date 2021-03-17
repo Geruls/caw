@@ -50,4 +50,3 @@ If you are in Windows,
 ```
 
 After that, your development environment should be ready.
-
