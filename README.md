@@ -15,8 +15,9 @@ Just **download the latest release** (or any other version you want) and it's re
 ### Usage
 
 ```sh
-caw <(jar)file> <language> [<name>] [-i <OSs_to_include>] [-e <OSs_to_exclude>]
+caw <file> <language> [<name>] [-i <OSs_to_include>] [-e <OSs_to_exclude>]
 ```
+where `<file>` can be a JAR file or a CPY file.
 
 ### Contributing to CAW
 
